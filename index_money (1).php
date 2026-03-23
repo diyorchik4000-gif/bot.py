@@ -1,7 +1,7 @@
 ﻿<?php
-$admin = '659030842';
-$kanal = '@Koderchik';
-$token = 'Token';
+$admin = '7399101034';
+$kanal = '@AlphaChange_Payments';
+$token = '8738520344:AAH9AslAcAhJNy-ogsxQnZlxMv_JtgSAlMo';
 /*Bot kodi @Koderchik ga tegishli
 Manba bilan olilar*/
 function bot($method,$datas=[]){
